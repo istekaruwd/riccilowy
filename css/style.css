@@ -116,7 +116,9 @@ a:hover {
 .info-con {
 	font-weight: 700;
 }
-
+.info-con span {
+	color: #cc0000;
+}
 
 /* Grid Video Area */
 
